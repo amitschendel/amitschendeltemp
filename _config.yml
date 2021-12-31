@@ -57,10 +57,10 @@ minimal_mistakes_skin: "dark" #"default" # "air", "aqua", "contrast", "dark", "d
 #   - vendor/ruby/
 
  author:
-     name     : "Amit Schendel"
-     avatar   : "/assets/images/Pasted image 20211227012012.png"
-     bio      : "Sup ;)"
-     location : "Somewhere, IL"
+    name     : "Amit Schendel"
+    avatar   : "/assets/images/Pasted image 20211227012012.png"
+    bio      : "Sup ;)"
+    location : "Somewhere, IL"
 
 defaults:
   # _posts
