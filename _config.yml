@@ -28,7 +28,8 @@ github_username: amitschendel
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
